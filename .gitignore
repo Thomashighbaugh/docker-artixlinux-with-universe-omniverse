@@ -1,0 +1,7 @@
+*~
+*.orig
+/.idea
+artixlinux.tar
+/alpm-hooks/
+/build/
+rootfs/etc/pacman.conf
