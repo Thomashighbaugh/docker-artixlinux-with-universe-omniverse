@@ -5,3 +5,4 @@ artixlinux.tar
 /alpm-hooks/
 /build/
 rootfs/etc/pacman.conf
+rootfs/usr/share/pacman/keyrings/artix.gpg
